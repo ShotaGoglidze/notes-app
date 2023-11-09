@@ -64,3 +64,9 @@
     right: 15px;
     cursor: pointer;
 }
+
+@media (max-width: 500px) {
+    .input-box {
+        left: -17px;
+    }
+}
